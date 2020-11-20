@@ -19,5 +19,6 @@ These are all of the custom Enter the Gungeon characters I've made. You will nee
  - 2.5) Run Enter the Gungeon once and then close it.
  - 2.6) Open the newly made folder "CustomCharacterData" (Ex. C:\Program Files (x86)\Steam\steamapps\common\Enter the Gungeon\CustomCharacterData).
  - 2.7) Download one of my character files
- - 2.8) Drag and drop the file into the CustomCharacterData folder.
+ - 2.8) Unzip and extract the file
+ - 2.9) Drag and drop the unzipped file into the CustomCharacterData folder.
  -  You can now play as the character and easily access them in The Breach. You will only have to repeat steps 2.7 and 2.8 if you want to install more custom characters. If you wish to edit the stats, weapons, base, or items of a character, there is a .txt file named "characterdata".
